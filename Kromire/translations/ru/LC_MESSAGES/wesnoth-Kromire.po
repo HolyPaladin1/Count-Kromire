@@ -1,0 +1,2186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2017-01-12 16:06 UTC\n"
+"PO-Revision-Date: \n"
+"Last-Translator: marat\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. [trait]: id=legend
+#: ../utils/traits.cfg:6
+msgid "legendary"
+msgstr "легендарный"
+
+#. [trait]: id=legend
+#: ../utils/traits.cfg:7
+msgid "female^legendary"
+msgstr "легендарная"
+
+#. [trait]: id=legend
+#: ../utils/traits.cfg:8
+msgid ""
+"Some people are simply incredible. They seem to have an edge in every area "
+"over others. Such units benefit from all standard traits."
+msgstr ""
+"Некоторые люди просто невероятны. Кажется, они талантливы во всём, и "
+"способны извлечь выгоду из любой ситуации."
+
+#. [message]: id=Kromire
+#: ../utils/utils.cfg:36
+msgid "My line ends..."
+msgstr "Мой путь окончен…"
+
+#. [message]: id=Igor
+#: ../utils/utils.cfg:49
+msgid "Uh!..."
+msgstr "Оух!.."
+
+#. [part]
+#: ../utils/storytxt.cfg:6
+msgid ""
+"Count Kromire: For centuries, the Kromires had ruled as vampire lords in the "
+"mountains to the east of the Bale Plains, which is  where the Celestials "
+"rule. The Celestials had embarked on a holy crusade, but had failed to crush "
+"the vampires to their west. Noting the power of their foe, they spent time "
+"building up their army over the next decade. We knew that their next crusade "
+"was to be launched soon, and that, failing in the west, they would now push "
+"to the east. Towards us."
+msgstr ""
+"Многие столетия Кромайры владели землями в горах на востоке Горестной "
+"Долины. Самой же долиной распоряжался народ небожителей. Настало время, "
+"когда небожители не смогли более терпеть омерзительных тварей у своих границ "
+"и отправились в священный поход, чтобы избавиться от вампиров на западе. "
+"Зная о немалой силе своего противника, небожители десять лет готовились к "
+"битве, приумножая свою армию.\n"
+"Мы знали о грядущем походе, и знали, что после гибели наших братьев на "
+"западе, легионы небожителей явятся на восток. За нами."
+
+#. [part]
+#: ../utils/storytxt.cfg:9
+msgid ""
+"And so they came. Hordes of men in white armor bearing spears and swords "
+"imbued with strange enchantments, and led by those with wings and spirits "
+"that burn with arcane light. Their numbers were limitless, and their power "
+"undaunted, even by our darkness. In the past, we had easily driven off the "
+"posturing Celestials, but this time their forces were too great. Some "
+"attributed this to the new Count Kromire."
+msgstr ""
+"И вот они прибыли. Огромное войско, состоящее из мужей в сверкающей белой "
+"броне, вооружённых осененными магией копьями и мечами, во главе с крылатыми "
+"воинами и полыхающими мистическим огнём духами. Им не было счёта, и страха "
+"они не ведали, даже наша извечная тьма не могла заставить их замедлить "
+"победную поступь. Некогда мы с лёгкостью расправлялись с небожителями, но в "
+"этот раз очень уж неравными оказались наши силы. Нашлись те, кто винил в "
+"случившемся нового графа Кромайра."
+
+#. [part]
+#: ../utils/storytxt.cfg:12
+msgid ""
+"The new count had an exceedingly eccentric manner, and so had chosen me as "
+"his heir. I was not the strongest or the smartest of his offspring, but I "
+"was the most cunning. As his heir, I was to be his chosen lieutenant, and so "
+"that is why I was given the task to hold the walls. While I knew this was "
+"suicide, I was bound to him by blood, and that is the little our kind holds "
+"sacred."
+msgstr ""
+"Последний из графов был довольно эксцентричной личностью. Это проявилось и в "
+"выборе наследника, то есть, меня. Я не отличался особой физической силой или "
+"обширными познаниями, единственное, что выделяло меня среди моих собратьев – "
+"врождённая хитрость. Как и положено законному наследнику нашего рода, свою "
+"службу я начал в должности лейтенанта. И первым моим заданием было "
+"удерживать от полчищ небожителей стены осаждённого замка. Первым и "
+"последним, ведь с самого начала было понятно, насколько невыполнима "
+"поставленная передо мной задача. Но отказаться было невозможно: кровные узы "
+"и связанный с ними долг – священны для нашего немногочисленного народа."
+
+#. [part]
+#: ../utils/storytxt.cfg:15
+msgid ""
+"Our forces were helplessly outnumbered, but I fought on because to lose "
+"meant certain doom. I held the Celestials off as long as I could, but we "
+"were beaten back from the walls and retreated into the keep. Desperately "
+"fighting to keep them out, I suddenly felt a snap in my chest and knew that "
+"my father, the lord of darkness, was now dead."
+msgstr ""
+"У нас не было и шанса выстоять, но я сражался до последнего: опустить руки "
+"означало неминуемую гибель. Мы раз за разом отбивали атаки небожителей, и с "
+"каждым таким штурмом наши ряды несли невосполнимые потери. Настал момент, "
+"когда удерживать врага стало уже невозможно, и мы отступили в крепость. "
+"Завязалась последняя битва. Битва обречённых. Во время схватки я ощутил, как "
+"вспышка боли молнией пронзила мою грудь… Так я понял, что мой отец, "
+"повелитель тьмы, граф Кромайр, умер."
+
+#. [part]
+#: ../utils/storytxt.cfg:18
+msgid ""
+"Recognizing my plight, my father’s valet appeared at my shoulder, and led me "
+"into the catacombs to escape into the woods. He swore loyalty to me as "
+"successor to the line. I accepted his pledge, and we both took off toward "
+"the Therian village at the base of the mountains, knowing that we could "
+"start the clan anew."
+msgstr ""
+"Видя, насколько отчаянным было наше положение, камердинер графа Кромайра "
+"коснулся моего плеча и заставил меня укрыться в подземных катакомбах. Он "
+"принёс мне обет верности, как своему новому господину. И я принял его "
+"клятву. Вместе мы выбрались из катакомб и направились к затерянному в горах "
+"селению тириийцев. Теперь моя жизнь имела особую ценность: пока жив "
+"последний из царственного рода, не угаснет и надежда воскресить погубленный "
+"клан."
+
+#. [part]
+#: ../utils/storytxt.cfg:21
+msgid ""
+"Though neither of us said it, we both knew that we’d return to reclaim our "
+"lands, to avenge my foolish father, and to send the celestials back to their "
+"plains. They had come to view the vampires as pests to be eradicated, but we "
+"would make them fear us as hunters to be avoided."
+msgstr ""
+"Хоть никто из нас и не произнёс этого вслух, мы оба знали, что вернёмся, "
+"возвратим родные земли, отомстим за гибель моего отца и навсегда отбросим "
+"небожителей обратно, на их равнины. Они пришли к нам, глядя на нас, как на "
+"вредителей, желая раздавить нас своим сапогом, но мы заставим их уважать и "
+"бояться нас, как жертва боится не знающего пощады охотника."
+
+#. [part]
+#: ../utils/storytxt.cfg:29
+msgid ""
+"We quickly gathered our new clan members, but I cringed inwardly at our "
+"numbers. My ardor to regain the castle was burning strongly, but I had too "
+"few men."
+msgstr ""
+"Мы быстро набрали новых членов клана, но всё равно нас было мало. Для того "
+"чтобы исполнить не дающее мне покоя желание – вернуть себе родовой замок, "
+"понадобится гораздо больше воинов."
+
+#. [part]
+#: ../utils/storytxt.cfg:32
+msgid ""
+"I was not naïve, nor given to heroic fits. I would not charge the castle in "
+"some valiant effort to oust the Celestials. I would need more men, more new "
+"blood."
+msgstr ""
+"Никто не назвал бы меня наивным или героем. Я не стану напропалую лезть в "
+"замок, чтобы единым усилием прогнать из него захватчиков. Нет, армию нужно "
+"было пополнить свежими силами."
+
+#. [part]
+#: ../utils/storytxt.cfg:35
+msgid ""
+"The largest hurdle in my path was that there were no more easy targets. That "
+"village was one of the few in the area not belonging to the vampires, as the "
+"monks of Theria had claimed it, and I had already drained it. I decided to "
+"head south."
+msgstr ""
+"И самым сложным здесь оказалось отсутствие лёгкой добычи. То селение, с "
+"которого мы начали свой путь, не принадлежало вампирам, им владели тириийцы. "
+"Но и запасы этой деревушки я уже истощил. Осталось разве что отправиться на "
+"юг."
+
+#. [part]
+#: ../utils/storytxt.cfg:38
+msgid ""
+"Two days out from the village, I found an opportunity for blood... and for "
+"an alliance."
+msgstr ""
+"Прошло два дня, прежде чем я отыскал возможность получить свежую кровь… и "
+"заключить новый союз."
+
+#. [part]
+#: ../utils/storytxt.cfg:46
+msgid ""
+"I chose the Michbies because their family was the weaker of the two, and "
+"thus offered me the best chance of winning."
+msgstr ""
+"На Мичби мой выбор пал не случайно. Его род был хоть немного, но слабее рода "
+"Вэлемоя. И потому шансы одержать верх были выше."
+
+#. [part]
+#: ../utils/storytxt.cfg:49
+msgid ""
+"Even though the keep was close, the time restraint placed by that Windsong "
+"warrior meant we marched with all haste."
+msgstr ""
+"Даже не смотря на то, что крепость моего невольного врага находилась близко, "
+"двигались мы ускоренным маршем. Теперь наше время ограничено скорым "
+"прибытием обещанной армии аувиаата."
+
+#. [part]
+#: ../utils/storytxt.cfg:52
+msgid ""
+"The words of that Windsong had made me wonder about what the prophecy of "
+"Merrian could contain that was so important. I resolved to read it when I "
+"had the chance."
+msgstr ""
+"Но, не смотря на спешку, я не переставал размышлять о пророчестве Мерриана. "
+"Неужели оно настолько важно? Что в нём содержится? Нужно будет изучить его "
+"при первой же возможности."
+
+#. [part]
+#: ../utils/storytxt.cfg:55
+msgid ""
+"As we neared the keep, I spread my men out and we attempted to approach with "
+"stealth, but we were discovered. Our advantage lost, our enemy made ready "
+"for us, and so I rallied my troops to do battle."
+msgstr ""
+"К крепости лорда Мичби я хотел подобраться незамеченным. По пути мы брали "
+"пленных, чтобы узнать о лежащей перед нами местности, где было возможно шли "
+"по оврагам и густым лесам. Но, к сожалению, на подходах к замку противник "
+"нас обнаружил и успел приготовиться к обороне. От единственного нашего "
+"преимущества – внезапности не осталось и следа. Собрав своё войско в единый "
+"кулак, я повёл их в решающий бой. Права на ошибку у меня не было."
+
+#. [part]
+#: ../utils/storytxt.cfg:63
+msgid ""
+"While I went through the process of converting the serfs into vampires, I "
+"also spent a little bit of extra time training some of them. It would be "
+"useful to have more members of my army proficient in blood magic. This was "
+"to prove useful very soon."
+msgstr ""
+"Во время обращения захваченных нами рабов, я смог обучить некоторых из них "
+"основам магии крови. Конечно, было бы полезно иметь в своих рядах больше "
+"таких воинов, ведь они всегда были основой армии Кромайров."
+
+#. [part]
+#: ../utils/storytxt.cfg:66
+msgid ""
+"It had rained heavily all week, and so my normally sharp senses were "
+"deadened by the moisture. I had just finished with the last of those "
+"squirming fools when the smell of angry blood caught my nose. Enemies had "
+"come, and they were near!"
+msgstr ""
+"Всю неделю шёл дождь, и моё обоняние притупилось от обилия влаги. Когда я "
+"закончил обращение последнего упирающегося глупца, то уловил запах "
+"возбуждённой крови – запах опасности. Враги были близко!"
+
+#. [part]
+#: ../utils/storytxt.cfg:74
+msgid ""
+"After finishing off the last defiant remnants, I led my army up into the "
+"mountains, towards the realm of Valemoi."
+msgstr ""
+"Когда с последним сопротивлением было покончено, я повёл свою армию к горам "
+"королевства Вэлемоя."
+
+#. [part]
+#: ../utils/storytxt.cfg:77
+msgid ""
+"I was eager to quickly conquer Valemoi, but we found that Valemoi was having "
+"trouble of his own already."
+msgstr ""
+"Я хотел разбить его одним ударом. Но когда мы прибыли на место, то "
+"оказалось, что у графа уже хватало своих собственных неприятностей."
+
+#. [part]
+#: ../utils/storytxt.cfg:85
+msgid ""
+"The battle did not end as I had hoped, but I made the most of it. I stayed a "
+"short time, just long enough to take as much from Valemoi’s land as I "
+"needed. "
+msgstr ""
+"Сражение окончилось не так, как надеялся, но его исход я постарался "
+"использовать с максимальной пользой. И времени, чтобы взять от земель "
+"Вэлемоя столько, сколько мы могли принять, осталось не много."
+
+#. [part]
+#: ../utils/storytxt.cfg:88
+msgid ""
+"The need for haste was upon me. The combined armies against Valemoi was an "
+"unexpected variable, and had slowed me down considerably. My time to meet up "
+"with the windsong was drawing closer, and so I set out with my army at a "
+"swift pace, heading towards Kromire Castle."
+msgstr ""
+"Причина спешки в первую очередь заключалась в новом составе армии. Солдаты "
+"лорда Вэлемоя усилили моё войско, но вместе с тем, не имея нужной мотивации, "
+"замедляли меня. Время встречи с аувиаата приближалось, и потому я ускоренным "
+"маршем выступил к замку Кромайр."
+
+#. [part]
+#: ../utils/storytxt.cfg:91
+msgid ""
+"With all my attention focused on speed, I did not watch my surroundings as "
+"closely as I should have. As we reached the pass, we found our way blocked."
+msgstr ""
+"Уделяя всё внимание быстроте перемещения, я совершенно не озаботился "
+"разведкой окрестностей. Когда мы достигли горного перевала, наш путь "
+"оказался преграждён."
+
+#. [part]
+#: ../utils/storytxt.cfg:99
+msgid "I marched back to the crossing as quickly as I could."
+msgstr "Я спешил на место встречи так быстро, как только мог."
+
+#. [part]
+#: ../utils/storytxt.cfg:102
+msgid ""
+"During the trip we were attacked a couple times by rouge monsters and "
+"elementals, neither of which could harm us."
+msgstr ""
+"Но всё время на моём пути возникали затруднения в виде девлингов или "
+"элементалей. Ни те, ни другие не могли остановить нас, но задержать сумели."
+
+#. [part]
+#: ../utils/storytxt.cfg:105
+msgid ""
+"I did not like these indicators; it hinted at something coming that I could "
+"not see. I am sure it has something to do with this prophecy that the "
+"windsong are seeking. I intend to make sure that I get a glimpse of it "
+"before the windsong can take it away."
+msgstr ""
+"Не нравятся мне эти знаки. Вслед за ними грядёт нечто, что я не могу "
+"предугадать. Уверен, всё это связано с тем пророчеством, которое разыскивают "
+"аувиаата. Надеюсь, что успею познакомится с записями старого мага, прежде "
+"чем они укроют их от мира в своих библиотеках."
+
+#. [part]
+#: ../utils/storytxt.cfg:113
+msgid ""
+"Despite my desire for haste, we took the time to march around to attack the "
+"castle from the south. While it put us further from our objective, it let us "
+"fight over the hills and roads instead of trying to wade through snow."
+msgstr ""
+"Не смотря на моё желание скорее добраться до родового замка, мы не спешили "
+"нанести решающий удар. Уйдя к югу и оставшись незамеченными, мы оказались от "
+"замка значительно дальше. Тем не менее, теперь достичь его стало намного "
+"проще: перед нами среди пологих холмов лежала прекрасная дорога."
+
+#. [part]
+#: ../utils/storytxt.cfg:116
+msgid ""
+"At least, this was the reason I gave my troops and the Windsong. It was also "
+"the way that I fled when I had left."
+msgstr ""
+"Во всяком случае, такой аргумент я привёл своим офицерам и аувиаата. Но я не "
+"сказал им, что хочу вернуться домой тем же путём, которым некогда и покинул "
+"замок."
+
+#. [part]
+#: ../utils/storytxt.cfg:124
+msgid ""
+"My control over the region was quickly asserted, and the peasants fell "
+"quickly, if unhappily, back under the yoke. Despite their misgivings, the "
+"festivities were enjoyed by vampire and human alike."
+msgstr ""
+"Власть над своими землями я восстановил достаточно быстро, и крестьяне "
+"склонились передо мной. Совместное празднество не обмануло их предчувствий: "
+"как только сопротивление прекратилось, я вернул устоявшиеся порядки."
+
+#. [part]
+#: ../utils/storytxt.cfg:127
+msgid ""
+"The windsong did not take part, but rather worked without stop on excavating "
+"the ruin. I had hatched several plans on how to acquire the prophecy after "
+"the windsong had found it, but I knew that I had time to implement any of "
+"them. My spies had informed me that the Windsong were making little headway, "
+"and it would be months yet before they found what they were seeking."
+msgstr ""
+"Аувиаата не принимали во всём этом никакого участия, без остановки разбирая "
+"завалы моего замка. У меня было несколько идей, как заполучить рукопись, "
+"когда аувиаата её отыщут, и я знал, что мне хватит времени осуществить "
+"задуманное. Мои наблюдатели докладывали о скромных успехах раскопок; уйдут "
+"месяцы, чтобы найти желаемое."
+
+#. [part]
+#: ../utils/storytxt.cfg:130
+msgid ""
+"The first month back in my lands was filled with battles. There were many "
+"minor skirmishes with devlings, elementals, and even a pack of warg that "
+"were infested with Raven Flu. These attacks did not dismay me, but only "
+"served to stoke my curiosity as to the nature of the prophecy that the "
+"Windsong were so desperately seeking. It would shed some light on the "
+"strange behavior occurring throughout the region."
+msgstr ""
+"Моё правление началось с череды сражений. Постоянные стычки с девлингами, "
+"элементалями, и даже отрядом варгов во главе с Хриплым Вороном. Но эти "
+"нападения особо меня не тревожили. Покоя мне не давало содержание "
+"пророчества, которое так отчаянно искали аувиаата. Уверен, оно пролило бы "
+"свет на все эти странности, творящиеся вокруг нас."
+
+#. [part]
+#: ../utils/storytxt.cfg:133
+msgid ""
+"Four days into the second month, my thin bloods reported white banners in "
+"the distance. I knew they were the banners of the Celestials, and at their "
+"head would be their latest champion, Hezadin the Seer."
+msgstr ""
+"Четвёртого дня второго месяца мои кровные слуги сообщили о показавшихся "
+"вдали белых знамёнах. Я знал, что это небожители вернулись с новыми силами, "
+"и возглавлял их наисильнейший воин – провидец Хэсадин."
+
+#. [scenario]: id=07_Alliance
+#: ../scenarios/07_Alliance.cfg:6
+msgid "Alliance"
+msgstr "Альянс"
+
+#. [side]: type=EOM_Noble, id=Kromire
+#. [side]: id=Kromire, type=EOM_Noble
+#: ../scenarios/07_Alliance.cfg:31 ../scenarios/09_The_Prophets_Blood.cfg:36
+#: ../scenarios/06_Hard_Rock_Pass.cfg:37 ../scenarios/02_Devlings.cfg:33
+#: ../scenarios/01_The_Therian_Village.cfg:39
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:33
+#: ../scenarios/03_Michbie.cfg:33 ../scenarios/04_Counterattack.cfg:33
+#: ../scenarios/05_Valemoi.cfg:34
+msgid "Kromire"
+msgstr "Кромайр"
+
+#. [side]: type=EOM_Oathkeeper, id=Lisaundra
+#. [unit]: type=EOM_Oathkeeper, id=Lisaundra
+#: ../scenarios/07_Alliance.cfg:46 ../scenarios/09_The_Prophets_Blood.cfg:126
+#: ../scenarios/09_The_Prophets_Blood.cfg:253 ../scenarios/02_Devlings.cfg:163
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:48
+msgid "Lisaundra"
+msgstr "Лусиандра"
+
+#. [message]: id=Lisaundra
+#: ../scenarios/07_Alliance.cfg:66
+msgid "I have been waiting."
+msgstr "Я ждала."
+
+#. [message]: id=Kromire
+#: ../scenarios/07_Alliance.cfg:70
+msgid "Forgive my truancy, I was delayed on the road."
+msgstr "Прости за опоздание, в дороге случились непредвиденные трудности."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/07_Alliance.cfg:74
+msgid ""
+"I was forced to leave the gatekeeper caste behind in my need to obtain the "
+"scroll quickly. There have been strange occurrences."
+msgstr ""
+"Ради того, чтобы быстрее отыскать пророчество, я была вынуждена оставить "
+"касту Хранителей. У нас нет времени, повсюду являются странные знаки."
+
+#. [message]: id=Kromire
+#: ../scenarios/07_Alliance.cfg:78
+msgid ""
+"I too have beheld such occurrences. Devlings rarely visit these mountains, "
+"and elementals don’t usually manifest in armies."
+msgstr ""
+"Я их тоже заметил. Дьяволята редко оказываются в наших горах, а элементали "
+"никогда прежде не объединялись в такие армии."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/07_Alliance.cfg:82
+msgid ""
+"I have not seen armies of elementals, but I have seen therians working along "
+"side walking dead."
+msgstr ""
+"Армии элементалей мне пока не попадались, а вот тирийцы начали искать "
+"способы оживления мертвецов."
+
+#. [message]: id=Kromire
+#: ../scenarios/07_Alliance.cfg:86
+msgid ""
+"There have been no necromancers for a very long time, that magic was lost, "
+"and for a good reason. I can’t imagine any therian searching for it, or "
+"working beside its creations."
+msgstr ""
+"Некромантов не было в наших землях уже много столетий. Их магия утеряна. Это "
+"бесспорно. Не знаю, что тириийцы надеются отыскать."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/07_Alliance.cfg:90
+msgid ""
+"I saw it with my own eyes, and felt their bones under my fist. They were all "
+"maddened like warg with Raven Flu, and I could not get a clue from them, and "
+"I could not capture them for they would kill themselves. They are all dead "
+"now, and their remains burned."
+msgstr ""
+"Я видела их своими глазами, и чувствовала их кости под своими ударами. Они "
+"все были безумны, как варги под началом Хриплого Ворона, и я ничего не могла "
+"ни добиться от них, ни захватить их в плен… Теперь все они все мертвы, и их "
+"прах развеян."
+
+#. [message]: id=Kromire
+#: ../scenarios/07_Alliance.cfg:94
+msgid ""
+"I do not know how to take this news. Let us not dwell on the problem, but "
+"rather search for the answer if you are ready to march then I am too."
+msgstr ""
+"Я не знаю, как увязать вместе все эти новости. Давай не станем заострять "
+"внимание на самой проблеме, а лучше попытаемся отыскать ответ. Если вы "
+"готовы выступить в путь, то и я тоже."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/07_Alliance.cfg:98
+msgid "Then let us be off."
+msgstr "Идём."
+
+#. [scenario]: id=09_The_Prophets_Blood
+#: ../scenarios/09_The_Prophets_Blood.cfg:9
+msgid "The Prophet’s Blood"
+msgstr "Кровь Пророка"
+
+#. [side]: type=EOM_Prophet, id=prophet
+#: ../scenarios/09_The_Prophets_Blood.cfg:51
+msgid "Hezadin the Seer"
+msgstr "Провидец Хэсадин"
+
+#. [side]: type=EOM_Divine_Champion, id=cleader
+#: ../scenarios/09_The_Prophets_Blood.cfg:65
+msgid "Marcus"
+msgstr "Маркус"
+
+#. [side]: type=EOM_Herald, id=cleader2
+#: ../scenarios/09_The_Prophets_Blood.cfg:79
+msgid "Michle"
+msgstr "Майчел"
+
+#. [message]: id=Igor
+#: ../scenarios/09_The_Prophets_Blood.cfg:111
+msgid ""
+"Mathter! The celethtials mean to thlay uth for good thith time. There are "
+"even more of them than there wath when they conquered uth the firth time!"
+msgstr ""
+"Гозподин! Небожители хорошо подготовилизь, чтобы убить наз. Их даже больше, "
+"чем было, когда они захватили наз в прошлый раз!"
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:115
+msgid "There are so many... Summon Lisaundra."
+msgstr "Их так много… Пошлите за Лусиандрой."
+
+#. [message]: id=Igor
+#: ../scenarios/09_The_Prophets_Blood.cfg:119
+msgid "Here th’e comth."
+msgstr "Вот и она."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/09_The_Prophets_Blood.cfg:136
+msgid "I still have not found it."
+msgstr "Я всё ещё ничего не нашла."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:140
+msgid "There are other matters that call our attention."
+msgstr "У нас сейчас возникли другие проблемы, которые требуют вашего участия."
+
+#. [message]: id=prophet
+#: ../scenarios/09_The_Prophets_Blood.cfg:144
+msgid ""
+"Lord Kromire, know that we will show no mercy, and that if you run, we will "
+"only hunt you down. For the blood of seers and prophets runs in my veins, "
+"and there is no place that you may hide from me. With the turmoil the world "
+"is going through, we cannot afford to have a menace such as yourself on the "
+"loose. This will be the final reckoning."
+msgstr ""
+"Лорд Кромайр, знайте, от нас вы не дождётесь милосердия, и даже если "
+"скроетесь, то мы выследим вас и среди горных вершин, и в глубоких пещерах. В "
+"моих жилах струится кровь прорицателей, тебе не укрыться от моего гнева. Мир "
+"стоит на пороге хаоса, и мы не можем позволить злу в твоём облике "
+"наслаждаться свободой беззакония. Поставим же точку."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:148
+msgid ""
+"Blood of seers, you say, and prophets... Call your warriors out of that "
+"hole, Lisaundra. Let us cease this slow search and fight. I must drink that "
+"man’s blood."
+msgstr ""
+"Кровь провидцев, хм… Отзывай своих воинов с бесполезных раскопок, Лусиандра. "
+"Хватит терять понапрасну время. Мне нужно выпить кровь этого человека."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/09_The_Prophets_Blood.cfg:152
+msgid ""
+"No, Kromire, I will not help you. I do not hate celestials, and have no love "
+"for your kind. I am only here to accomplish my task, and then I will take my "
+"leave. The celestials will not harm me, for they are intent on killing you, "
+"and would not seek to offend the Windsong by drawing me into battle as well. "
+"Fight your little battle by yourself."
+msgstr ""
+"Нет, Кромайр, я не стану помогать тебе. Я не испытываю ненависти к "
+"небожителям, но и к вашему роду любви не питаю. Я здесь лишь затем, чтобы "
+"исполнить свою миссию, а после навсегда покину эти края. Небожители не "
+"тронут меня, они полны решимости избавится от вас, и не захотят вовлекать в "
+"сражение ещё одного участника. Ведите сами свою войну, граф."
+
+#. [message]: id=Igor
+#: ../scenarios/09_The_Prophets_Blood.cfg:160
+msgid "I would like to drink her blood..."
+msgstr "Мне хочетзя изпить её кровь…"
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:164
+msgid ""
+"It does not matter, once the blood of that prophet runs in my veins, we will "
+"not need her. As much as I would like to punish her for her insolence, we "
+"must let her be. As she said, now is not a good time to make enemies with "
+"the Windsong."
+msgstr ""
+"Пока не стоит. Однажды кровь этого пророка заструится по моим венам, и "
+"аувиаата нам больше не понадобятся. Как бы мне не хотелось расплатиться за "
+"дерзость, мы оставим её в покое. Она права: сейчас не самое лучше время "
+"наживать новых врагов."
+
+#. [objective]: condition=win
+#: ../scenarios/09_The_Prophets_Blood.cfg:169
+msgid "Kromire must bite Hazadin."
+msgstr "Кромайр должен укусить Хэзадина"
+
+#. [objective]: condition=lose
+#: ../scenarios/09_The_Prophets_Blood.cfg:173
+#: ../scenarios/06_Hard_Rock_Pass.cfg:174 ../scenarios/02_Devlings.cfg:293
+#: ../scenarios/01_The_Therian_Village.cfg:196
+#: ../scenarios/01_The_Therian_Village.cfg:324
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:136
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:269
+#: ../scenarios/03_Michbie.cfg:136 ../scenarios/04_Counterattack.cfg:129
+#: ../scenarios/05_Valemoi.cfg:644
+msgid "Death of Kromire"
+msgstr "Смерть Кромайра"
+
+#. [unit]: type=EOM_Sangel, id=Valemoi
+#. [scenario]: id=05_Valemoi
+#: ../scenarios/09_The_Prophets_Blood.cfg:192 ../scenarios/05_Valemoi.cfg:6
+msgid "Valemoi"
+msgstr "Вэлемой"
+
+#. [message]: id=Valemoi
+#: ../scenarios/09_The_Prophets_Blood.cfg:199
+msgid ""
+"Kromire, you were a fool to let me live. I have come to punish you for your "
+"arrogance, pup. This time I will slay you."
+msgstr ""
+"Кромайр, ты был глупцом, сохранив мне жизнь. Я прибыл, чтобы наказать тебя "
+"за твоё высокомерие, щенок. И на этот раз я тебя прикончу."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:203
+msgid "Don’t you have better things to be doing?"
+msgstr "Тебе что, больше заняться нечем?"
+
+#. [message]: id=Valemoi
+#: ../scenarios/09_The_Prophets_Blood.cfg:207
+msgid ""
+"NO! You left me broken and weak, and it took all I had to control my humans. "
+"They rose up against me and drove me out, despite my power. I have nothing "
+"left, and before I die, I will avenge myself!"
+msgstr ""
+"НЕТ! Ты оставил меня посреди руин, лишённым сил и средств. Мой народ "
+"взбунтовался, и прогнал меня прочь, не смотря на законность моей власти. У "
+"меня ничего больше не осталось, и прежде чем я умру, то хотя бы вкушу нектар "
+"мести!"
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:211
+msgid ""
+"Old fool. You are weak, and cannot truly think to kill me. Your desire for "
+"vengeance is applaudable, but know that you do not stand a chance. I relish "
+"the opportunity to slay you, as I should have done from the beginning."
+msgstr ""
+"Старый дурак. Ты слаб, и не сможешь справиться со мной. Твоё желание "
+"отомстить достойно уважения, но такой возможности я тебе не дам. С каким же "
+"удовольствием я разорву тебя на куски, как хотел это сделать в первую нашу "
+"встречу."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:237
+msgid "... This is different..."
+msgstr "…Всё меняется…"
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:241
+msgid "Such vision and insight, it burns in my veins more than magic..."
+msgstr ""
+"Видения переполняют меня, я чувствую, как прикасаюсь к самой сути вещей… Это "
+"обжигает вены сильнее любой магии…"
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:246
+msgid ""
+"Aha! Mwah-ha-ha! Come, Lisaundra, cease your silly search. I can tell you "
+"the prophecy, it hangs in the air so heavy that I am surprised I could not "
+"feel it before! Summon your scribe to witness and record the prophecy of "
+"Miriam the Ascendant."
+msgstr ""
+"Вот оно! Мва-ха-ха-ха! Эй, Лусиандра, заканчивай свои глупые поиски. Я и так "
+"смогу озвучить твоё пророчество. Оно висит в воздухе, оно настолько давит на "
+"всё, что удивлён, как я мог не заметить его прежде! Призови своего писаря, "
+"чтобы засвидетельствовать пророчество Мирриана Могущественного."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/09_The_Prophets_Blood.cfg:262
+msgid ""
+"I know not what you have wrought with this dark deed. This seems like "
+"foolishness."
+msgstr "Твои видения вызваны поганым колдовством. Это лишь морок."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:266
+msgid ""
+"Write these words down, it is not foolishness. This man’s blood burned with "
+"power, and all it took was my focus on the prophecy to draw it to the fore. "
+"I can relate every line to you, or, if you doubt me, I can point you to "
+"where the prophecy lies in the rubble."
+msgstr ""
+"Записывай мои слова, ибо в них истина. Кровь пророка соединилась с моею "
+"силой, и этого хватило, чтобы узреть сокрытое. И если в тебе нет веры моим "
+"словам, я могу указать место, где под грудой камней сохранилась столь ценная "
+"для вас рукопись."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/09_The_Prophets_Blood.cfg:270
+msgid "You do not lie... Esper, come quick. Write this down."
+msgstr "Ты не лжешь… Эспер, скорее сюда. Записывай."
+
+#. [unit]: type=EOM_Scribe, id=Esper
+#: ../scenarios/09_The_Prophets_Blood.cfg:277
+msgid "Esper"
+msgstr "Эспер"
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:285
+msgid ""
+"(Speaking as from a deep well) Behold, once the phoenix has flown, the Age "
+"of the Unicorn is over. It is now the Age of the Dragon."
+msgstr ""
+"<i> (голосом, будто прошедшим через толщу воды.) </i> Миру явилось знамение "
+"– птица Феникс покинула своё гнездо. Эра Единорога окончена. Настала Эра "
+"Дракона."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:289
+msgid ""
+"The events of the Age of the Dragon in order categorical are the War of the "
+"Dragon, the Invasion from the Outlands, the Plague of the Dragon, and the "
+"Empire of the Dragon. The Age of the Dragon ends when the north star turns "
+"red."
+msgstr ""
+"И час этот ознаменуется Войною Дракона, Вторжением из Неведомого, Чумой "
+"Дракона и Империей Дракона. Закончится Эра в тот день, когда окрасится "
+"кровью Полярная Звезда."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:294
+msgid ""
+"The War of the Dragon, will be the war between the Dark Dragon Kzardizin the "
+"Immortal, and the inhabitants of the world. In the end either the dragon and "
+"his minions will reign for the next two centuries, or the dragon will be "
+"forced underground by three champions, one from the west, one from the "
+"north, and one from the east."
+msgstr ""
+"Войной Дракона назовут битву с тёмным драконом Хзардзайном Бессмертным. По "
+"её окончании сам дракон и его племя более двух столетий будут властвовать "
+"над миром, или же сгинет он под земною толщею, если три воина с запада, с "
+"севера и с востока явятся, чтобы сразиться с ним."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:298
+msgid ""
+"The invasion from the outland will constitute of the rediscovery of the "
+"gates to other worlds, and the interactions between the worlds. In the end "
+"either the gates will be forbidden and lost, or they will be held open, but "
+"guarded."
+msgstr ""
+"Во времена Вторжения из Неведомого откроются врата иных миров, вспыхнут "
+"жестокие войны, падут устоявшиеся границы. Но все врата будут закрыты, "
+"утеряны и заброшены, или станут на них неодолимые стражи."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:302
+msgid ""
+"The Plague of the Dragon will be a vile illness that shall send the world "
+"into chaos. In the end either four out of five of all animals and plants "
+"will die, or an expedition into the Outland for the cure will be successful "
+"and the afore stated ratio will be the number of survivors."
+msgstr ""
+"Чумой Дракона нарекут гибельное поветрие. Из пяти живых существ в мире "
+"уцелеет не более одного. Но путешествие в неведомые земли позволит отыскать "
+"целебное снадобье прежде, чем прервётся жизнь этого мира."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:306
+msgid ""
+"The Empire of the Dragon will be a new order forged out of the results of "
+"the plague, and it will last several centuries. In the end it will either "
+"fall to corruption caused by the renewal of necromancy, or it will be remade "
+"from scratch, and renewed to face the next era, the Age of the Phoenix."
+msgstr ""
+"Во времена Империи Дракона, вызванный опустошающим поветрием, грядёт Новый "
+"Порядок. И продлится он несколько веков. Но и его подточат извечные черви: "
+"взрастёт мздоимство, восстанет из небытия позабытая некромантия, и мир падёт "
+"вниз перед началом новой эры, Эры Феникса, вернувшегося на своё гнездо."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:310
+msgid ""
+"(Back to his ordinary voice) Know that this means that Kzardizin has "
+"awakened, and that he will try to dominate the world. Return to the Great "
+"Foundation, and tell your arbiters, ascendants, and librarians. Let them "
+"know and prepare for the upcoming war. Kzardizin always had the loyalty of "
+"devlings by promising them the chance to torment, and the loyalty of many "
+"vampires, by promising them blood. The many warriors of the dead were his "
+"for he was a skilled necromancer, and also many warriors of the children of "
+"his blood. Prepare your kind for this war, as I shall seek to prepare mine. "
+"I am the only vampire lord left in the northern part of these mountains, and "
+"I will never submit to the rule of the Dark Dragon."
+msgstr ""
+"<i> (обычным голосом.) </i> Это означает, что Хзардзайн проснулся, и "
+"попытается завладеть миром. Возвращайся в Великую Академию, и сообщи это "
+"вашим книгочеям, судьям и мудрецам. Готовьтесь к беспощадной войне. "
+"Хзардзайн всегда благоволил к девлингам, обещая им безграничную свободу, и "
+"многие вампиры тоже пойдут за ним, желая испить свежую кровь. Из могил "
+"восстанут мёртвые воины, и прах былых драконов обретёт новые силы – "
+"Хзардзайн был известен своими познаниями в некромантии. Готовьте свой народ "
+"к этой войне, я же подготовлю свой. Я – последний лорд-вампир на севере этих "
+"гор, и я никогда не склонюсь перед Тёмным Драконом."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/09_The_Prophets_Blood.cfg:314
+msgid ""
+"Nor will my people. This new age has much promise, but we must see that each "
+"event has the proper ending."
+msgstr ""
+"И люди мои не преклонят колен. Новая эра несёт нам много бед, но вижу, что "
+"настанет конец и самому тяжкому испытанию."
+
+#. [message]: id=Kromire
+#: ../scenarios/09_The_Prophets_Blood.cfg:319
+msgid ""
+"I intend to live to the end. Through war and turmoil, through plague and "
+"corruption, I will remain Count Kromire, Lord of the North Corian Mountains."
+msgstr ""
+"Намереваюсь увидеть всё до самого предела. Сквозь войну и разруху, через мор "
+"и страдания, я останусь графом Кромайром, хозяином Северных Гор."
+
+#. [scenario]: id=06_Hard_Rock_Pass
+#: ../scenarios/06_Hard_Rock_Pass.cfg:9
+msgid "Hard Rock Pass"
+msgstr "Перевал Тяжёлых Камней"
+
+#. [side]: type=EOM_Devling_Soldier, id=Dleader
+#: ../scenarios/06_Hard_Rock_Pass.cfg:51
+msgid "Mocker"
+msgstr "Мокер"
+
+#. [side]: type=EOM_Devling_Soldier, id=Dleader2
+#: ../scenarios/06_Hard_Rock_Pass.cfg:68
+msgid "Maker"
+msgstr "Макер"
+
+#. [message]: id=Kromire
+#: ../scenarios/06_Hard_Rock_Pass.cfg:96 ../scenarios/06_Hard_Rock_Pass.cfg:146
+msgid "More devlings? They are thick on the ground this time of year."
+msgstr ""
+"Ещё девлинги? Что-то слишком часто они стали попадаться у меня на пути."
+
+#. [message]: id=Igor
+#: ../scenarios/06_Hard_Rock_Pass.cfg:100
+#: ../scenarios/06_Hard_Rock_Pass.cfg:150
+msgid ""
+"Masther, when will we meeth the windsong? They did noth spethcify a "
+"lothcation. How will weth know wthere to go?"
+msgstr ""
+"Гозподин, где и когда мы взтретимзя с аувиаата? Они не озтавили чётких "
+"указаний ни о времени, ни о мезте нашей взтречи."
+
+#. [message]: id=Kromire
+#: ../scenarios/06_Hard_Rock_Pass.cfg:104
+msgid ""
+"I do not doubt the windsong’s capability in delivering their message when "
+"the time is right. I know not where to meet them, but I have no fear that "
+"they will not find us. We must crush these fools first, and continue on our "
+"way."
+msgstr ""
+"Я наслышан о способностях аувиаата, полагаю, они доставят послание, когда "
+"посчитают нужным. Не знаю, где мы их встретим, но совершенно не опасаюсь, "
+"что они не смогут нас отыскать. А сейчас, чтобы продолжить наш путь, нужно "
+"избавиться от этих придурков."
+
+#. [unit]: type=EOM_Blood_Hulk, id=Grumbler
+#: ../scenarios/06_Hard_Rock_Pass.cfg:112
+msgid "Grumbler"
+msgstr "Грамблер"
+
+#. [unit]: type=EOM_Blood_Hulk, id=Healger
+#: ../scenarios/06_Hard_Rock_Pass.cfg:124
+msgid "Healger"
+msgstr "Хилгер"
+
+#. [unit]: type=EOM_Blood_Hulk, id=Ripper
+#: ../scenarios/06_Hard_Rock_Pass.cfg:136
+msgid "Ripper"
+msgstr "Риппер"
+
+#. [message]: id=Kromire
+#: ../scenarios/06_Hard_Rock_Pass.cfg:154
+msgid ""
+"I do not doubt the windsong’s capability in delivering their message when "
+"the time is right. I know not where to meet them, but I have no fear that "
+"they will not find us. We must crush these fools first, and continue on our "
+"way. The constructs that Valemoi constructed will be perfect for this task."
+msgstr ""
+"Я наслышан о способностях аувиаата, полагаю, они доставят послание, когда "
+"посчитают нужным. Не знаю, где мы их встретим, но совершенно не опасаюсь, "
+"что они не смогут нас отыскать. А сейчас, чтобы продолжить наш путь, нужно "
+"избавиться от этих придурков. Конструкции, которыми снабдил нас Вэлемой, "
+"придутся как нельзя более кстати."
+
+#. [message]: id=Ripper
+#: ../scenarios/06_Hard_Rock_Pass.cfg:159
+msgid "Graw! Fresh Meat!"
+msgstr "Гроу! Свежее мясо!"
+
+#. [objective]: condition=win
+#: ../scenarios/06_Hard_Rock_Pass.cfg:170 ../scenarios/04_Counterattack.cfg:125
+#: ../scenarios/05_Valemoi.cfg:640
+msgid "Defeat your foes"
+msgstr "Победите противников"
+
+#. [message]: id=Kromire
+#: ../scenarios/06_Hard_Rock_Pass.cfg:183
+msgid "Someone is coming towards us quickly from the north. To arms!"
+msgstr "Кто-то приближается к нам с севера! К оружию!"
+
+#. [message]: id=Herra
+#: ../scenarios/06_Hard_Rock_Pass.cfg:197
+msgid "Lisaundra the Oathkeeper sends you greetings, and a message."
+msgstr "Лусиандра Верная Клятве шлёт вам приветствия и послание."
+
+#. [message]: id=Kromire
+#: ../scenarios/06_Hard_Rock_Pass.cfg:201
+msgid "Speak."
+msgstr "Говори."
+
+#. [message]: id=Herra
+#: ../scenarios/06_Hard_Rock_Pass.cfg:205
+msgid ""
+"She bids you to meet her where you first met, and to be prepared to attack "
+"the celestials. I have been assigned to guide you on your way back, until "
+"the Celestials are routed."
+msgstr ""
+"Она предлагает объединить армии на месте вашей первой встречи. И там же "
+"подготовиться к нападению на небожителей. Мне поручено сопровождать вас на "
+"этом пути, пока небожители не будут окончательно разбиты."
+
+#. [message]: id=Kromire
+#: ../scenarios/06_Hard_Rock_Pass.cfg:209
+msgid ""
+"I accept your fealty, however temporary. Help us strike down these fools."
+msgstr ""
+"Я, граф Кромайр, принимаю твою верность вассала, хоть и временную. Помоги "
+"нам избавиться от этих придурков."
+
+#. [message]: id=Kromire
+#: ../scenarios/06_Hard_Rock_Pass.cfg:216
+msgid ""
+"Excellent. Quickly my children, let us drive on! The castle is within our "
+"grasp."
+msgstr "Великолепно! Быстрее, дети мои, продолжим наш путь! Замок уже близко."
+
+#. [scenario]: id=02_Devlings
+#: ../scenarios/02_Devlings.cfg:6
+msgid "Devlings"
+msgstr "Девлинги"
+
+#. [side]: type=EOM_Lurker, id=d1
+#: ../scenarios/02_Devlings.cfg:47
+msgid "Guile"
+msgstr "Хитрик"
+
+#. [side]: type=EOM_Devling_Soldier, id=d2
+#: ../scenarios/02_Devlings.cfg:123
+msgid "Bulge"
+msgstr "Боклик"
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:181
+msgid ""
+"Is that a windsong warrior? They are uncommon around here, I wonder what her "
+"purpose is around here."
+msgstr ""
+"Это воин народа аувиаата? Невероятное зрелище! Интересно, что они тут делают?"
+
+#. [message]: id=Igor
+#: ../scenarios/02_Devlings.cfg:185
+msgid "Master there are devlings all around. They assail her, even now."
+msgstr "Гозподин, там повзюду девлинги. Они нападают на неё."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:189
+msgid ""
+"The devlings assail her, perhaps then we can make something of this "
+"situation."
+msgstr "Девлинги не дают ей покоя. Возможно, нам следует вмешаться."
+
+#. [message]: speaker=narrator
+#: ../scenarios/02_Devlings.cfg:193
+msgid "Suddenly an image of the warrior appears before you."
+msgstr "Внезапно перед вами возник образ воина"
+
+#. [unit]: type=EOM_Oathkeeper, id=projection
+#: ../scenarios/02_Devlings.cfg:202
+msgid "Windsong Warrior"
+msgstr ""
+
+#. [message]: id=projection
+#: ../scenarios/02_Devlings.cfg:208
+msgid ""
+"Dare not bring battle to me, or I’ll rend you apart even as these devlings."
+msgstr ""
+"Не смей выступать против меня, или лично разорву тебя на куски, как только "
+"расправлюсь с этими девлингами."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:212
+msgid ""
+"I bear you no malice, nor thirst for your blood. I merely desire to "
+"understand your motive."
+msgstr ""
+"Я не мыслил против тебя ничего дурного, и не желал пролить твою кровь. Я "
+"пытался понять причину происходящего."
+
+#. [message]: id=projection
+#: ../scenarios/02_Devlings.cfg:216
+msgid ""
+"Don’t lie to me, your kind thirst for everyone’s blood. What is my motive to "
+"you: leverage?"
+msgstr ""
+"Не лги мне, я знаю о твоей жажде. Какие причины ты желаешь отыскать? Рычаги, "
+"на которые можно надавить?"
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:220
+msgid ""
+"Let us say that I find it very odd to find a windsong warrior battling a "
+"horde of devlings, when neither should be here at all. A part of me wonders "
+"if I ought to be doing something about it."
+msgstr ""
+"Для начала, очень уж странно повстречать воина аувиаата, сражающегося против "
+"орды девлингов, когда ни вас, ни их не должно быть на этих землях. Вот и "
+"мучаюсь вопросом: не должен ли я что-либо предпринять?"
+
+#. [message]: id=projection
+#: ../scenarios/02_Devlings.cfg:224
+msgid ""
+"The devlings are not my cause of being here, merely an nuisance that keeps "
+"me from my quest. I know not why they are here."
+msgstr ""
+"Не из-за девлингов я здесь, они лишь досадная помеха в моих исканиях. "
+"Понятия не имею, что они тут делают."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:228
+msgid "I have not known the windsong to embark on quests."
+msgstr "Не знал, что аувиаата занимаются поисками."
+
+#. [message]: id=projection
+#: ../scenarios/02_Devlings.cfg:232
+msgid ""
+"Your kind’s memories may be longer than most, but not nearly as long as our "
+"library’s. On the occasion where a landmark manifests in time, as recorded "
+"by the Librarian Azzura, then a quest must be undertaken. Mine is one of "
+"these occasions, the phoenix has flown, and it is time to recover the "
+"prophecy of Merrian the Ascendant."
+msgstr ""
+"Воспоминания вашего народа могут уходить вглубь веков, но им не сравниться с "
+"нашей библиотекой. Когда в определённый период времени является знак, как "
+"было указано библиотекарем Аззурой, тогда мы должны отправиться на поиски. "
+"Сейчас наступил такой случай. Феникс взмыл в небо, и пора отыскать "
+"пророчество Мерриана Могущественного."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:236
+msgid "You seek that prophecy? I know where it is."
+msgstr "Так вы ищете это пророчество: Я знаю, где оно."
+
+#. [message]: id=projection
+#: ../scenarios/02_Devlings.cfg:240
+msgid ""
+"Then speak of its resting place, and know that I will detect if you lie, and "
+"crush you like a bug if you do."
+msgstr ""
+"Тогда скажи, где оно хранится, и не смей лгать, ибо я обнаружу ложь, и "
+"прихлопну тебя, как мерзкого жука."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:244
+msgid ""
+"There is no need for threats, it is only a dusty old book to me. It is in "
+"the catacomb vaults of Kromire Castle."
+msgstr ""
+"Нет нужды сыпать угрозами, ваше пророчество записано в одной старой пыльной "
+"книге. А книга укрыта в катакомбах замка Кромайр."
+
+#. [message]: id=projection
+#: ../scenarios/02_Devlings.cfg:248
+msgid ""
+"... I can tell that you do not lie... but that is an odd place for it to be. "
+"No matter, the Kromires have always been very weak, and their count is a "
+"fool."
+msgstr ""
+"…Ты не лжешь… Но это странное место для такой книги… Неважно, Кромайры "
+"всегда были слабы, а их последний граф оказался редким идиотом."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:252
+msgid ""
+"Perhaps, but I am the new Count Kromire. My lands have been overrun by the "
+"celestials, and I think that you would have a hard time convincing them to "
+"let you root around in my castle."
+msgstr ""
+"Может быть и так. Но сейчас я – новый граф Кромайр. Мои земли захвачены "
+"небожителями, и полагаю, вам нелегко будет убедить их свободно изучать "
+"окрестности и подземелья моего замка."
+
+#. [message]: id=projection
+#: ../scenarios/02_Devlings.cfg:256
+msgid ""
+"I will not let myself be stopped by the celestial hordes. I am bound by oath "
+"to acquire the scroll on which the prophecy is held."
+msgstr ""
+"Я не позволю ордам небожителей помешать мне. Священная присяга обязывает "
+"меня отыскать древнюю рукопись."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:260
+msgid ""
+"I will help you on this venture, I have no love for the celestials, and "
+"would dearly like to have my lands back, and I know that although the might "
+"of the windsong is great, that you will need all the help you can get."
+msgstr ""
+"Могу тебе в этом помочь. Тем более, что тёплых чувств к небожителям я не "
+"испытываю, да и земли свои хотел бы вернуть. Знаю, что ваши силы огромны, но "
+"сейчас и вам не помешает любая помощь."
+
+#. [message]: id=projection
+#: ../scenarios/02_Devlings.cfg:264
+msgid ""
+"Then help me defeat these foolish devlings, I’ll come back with an army of "
+"the windsong in a couple months, and mayhaps that between the two of us we "
+"could bring down the celestial armies. You have the word of Lisaundra, of "
+"the Oathkeeper caste."
+msgstr ""
+"Хм… Тогда, для начала, помоги мне справиться с этими наглыми девлингами, и "
+"через пару месяцев я приведу армию. Два наших воинства, возможно, справятся "
+"с легионами твоих врагов. Даю слово Лусиандры из касты Верных Клятве."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:268
+msgid "I swear by my word as a Kromire, thus will be done."
+msgstr "Даю слово графа Кромайра. Да будет так."
+
+#. [message]: speaker=narrator
+#: ../scenarios/02_Devlings.cfg:275
+msgid "The phantom fades..."
+msgstr "Видение испарилось…"
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:280
+msgid ""
+"It is odd to meet one of the windsong so arrogant, and reckless. She is "
+"completely surrounded, and yet she threatens us."
+msgstr ""
+"Так странно было встретить одного из аувиаата, высокомерную и опрометчивую. "
+"Окружена со всех сторон, а ещё и нам ухитряется угрожать."
+
+#. [message]: id=Igor
+#: ../scenarios/02_Devlings.cfg:284
+msgid "Mayhap, she hath a reason to be so."
+msgstr "Возможно, у неё езть на то все ознования."
+
+#. [objective]: condition=win
+#: ../scenarios/02_Devlings.cfg:289
+msgid "Destroy the devlings"
+msgstr "Избавьтесь от девлингов"
+
+#. [objective]: condition=lose
+#: ../scenarios/02_Devlings.cfg:297
+msgid "Death of Lisaundra"
+msgstr "Смерть Лусандры"
+
+#. [message]: id=Lisaundra
+#: ../scenarios/02_Devlings.cfg:309
+msgid "..."
+msgstr "..."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:313
+msgid "With her dead, we’ve lost our chances of an alliance with the windsong."
+msgstr "С её гибелью не видать нам союза с аувиаата."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/02_Devlings.cfg:323
+msgid ""
+"Now I will leave. Expect me back when the bright moon is full, and the dark "
+"moon is new."
+msgstr ""
+"Я отправляюсь домой. Ожидайте меня тогда, когда пройдёт луна полная и придет "
+"луна тёмная."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:331
+msgid ""
+"Excellent. The plans have been set, and if I can raise an army of my own, "
+"the castle will be mine again soon. I will need more minions to serve me."
+msgstr ""
+"Отлично. Это уже похоже на план. Осталось успеть собрать свою собственную "
+"армию, и скоро я верну себе родовой замок. Тогда, чтобы удержать позиции, "
+"мне понадобится намного больше верных слуг."
+
+#. [message]: id=Igor
+#: ../scenarios/02_Devlings.cfg:335
+msgid "The only people who have humans would be other vampires."
+msgstr ""
+"Единзтвенный народ, у которого можно позаимзтвовать армию – это другие "
+"вампиры."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:339
+msgid ""
+"(thinking) We’ll have to either make a deal with one of the other vampire "
+"lords, or launch a surprise attack in an attempt to conquer his lands."
+msgstr ""
+"<i> (задумчиво) </i> Придётся заключать сделку с одним из лордов… Или "
+"неожиданно на него напасть…"
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:343
+msgid ""
+"(still thinking) The two vampire lords that are close by would be the "
+"Michbies and the Valemois. Neither of which I would trust to keep a bargain, "
+"but both are stronger than we are now."
+msgstr ""
+"<i> (всё ещё в раздумьях) </i> Ближе всего к нам владения лордов Мичби и "
+"Вэлемоя. Ни с одним из них не стал бы я заключать договор, но оба они сейчас "
+"намного сильнее, чем наше потешное воинство."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:347
+msgid ""
+"(Still thinking) I cannot bargain with either in my current state, so I will "
+"conquer the Michbies in order to have the power to bargain with Valemoi."
+msgstr ""
+"<i> (продолжая размышлять) </i> На сделку со мной никто не пойдёт, я слишком "
+"слаб, а потому и не интересен для сильных игроков. Остаётся война. Разобью "
+"Мичби, и тогда, с позиции силы, можно будет договорится с Вэлемоем."
+
+#. [message]: id=Kromire
+#: ../scenarios/02_Devlings.cfg:351
+msgid "Prepare for battle, the house of Michbie will soon be no more."
+msgstr "Так. Готовимся к битве. Дом Мичби скоро прекратит своё существование."
+
+#. [message]: id=Igor
+#: ../scenarios/02_Devlings.cfg:355
+msgid "We obey."
+msgstr "Повинуемзя."
+
+#. [scenario]: id=01_The_Therian_Village
+#: ../scenarios/01_The_Therian_Village.cfg:14
+msgid "The Therian Village"
+msgstr "Селение тириийцев"
+
+#. [side]: id=Kromire, type=EOM_Noble
+#: ../scenarios/01_The_Therian_Village.cfg:37
+msgid "team_name^Kromire"
+msgstr "Кромайр"
+
+#. [unit]: id=Igor, type=EOM_Blood_Manipulator
+#: ../scenarios/01_The_Therian_Village.cfg:56
+msgid "Igor"
+msgstr "Игорь"
+
+#. [side]: type=EOM_Therian_Shaman, id=Lokrinas
+#: ../scenarios/01_The_Therian_Village.cfg:78
+msgid "team_name^Therians"
+msgstr "тириийцы"
+
+#. [side]: type=EOM_Therian_Shaman, id=Lokrinas
+#: ../scenarios/01_The_Therian_Village.cfg:83
+msgid "Lokrinas"
+msgstr "Локринас"
+
+#. [side]: type=EOM_Claimant, id=Zyne
+#: ../scenarios/01_The_Therian_Village.cfg:167
+msgid "team_name^Celestials"
+msgstr "Небожители"
+
+#. [side]: type=EOM_Claimant, id=Zyne
+#: ../scenarios/01_The_Therian_Village.cfg:170
+msgid "Zyne"
+msgstr "Зинэ"
+
+#. [objective]: condition=win
+#: ../scenarios/01_The_Therian_Village.cfg:192
+msgid "Defeat the enemy leader"
+msgstr "Победите вражеского лидера"
+
+#. [message]: id=Igor
+#: ../scenarios/01_The_Therian_Village.cfg:208
+msgid "Look master, the village ith nearby."
+msgstr "Взгляните, гозподин, деревня уже близко."
+
+#. [message]: id=Kromire
+#: ../scenarios/01_The_Therian_Village.cfg:212
+msgid ""
+"Hurry slave, we need to slay their leader without alerting their guard. If "
+"we can take the keep, we can turn the peasants to our side. Do not alert "
+"them prematurely. If you must fight, kill them before they can so much as "
+"squeak."
+msgstr ""
+"Быстрее, убьём их лидера так, чтобы охрана ничего не заподозрила. Когда "
+"захватим крепость, часть крестьян перейдёт на нашу сторону. Но нельзя дать "
+"себя обнаружить раньше времени. Если бой окажется неизбежным, то постарайся "
+"прикончить их прежде, чем они начнут вопить о помощи."
+
+#. [message]: speaker=second_unit
+#: ../scenarios/01_The_Therian_Village.cfg:223
+msgid ""
+"You! Foul creature, what are you doing here? Do you not know that the "
+"celestials are coming? They will hew all your kind to the ground!"
+msgstr ""
+"Ты! Поганая тварь, что ты здесь забыл? Скоро сюда придут небожители. Они "
+"изничтожат весь ваш род до самого основания!"
+
+#. [message]: id=Kromire
+#: ../scenarios/01_The_Therian_Village.cfg:227
+msgid ""
+"Oh, no worries... friend. We intend to be prepared for them, and your "
+"village is a part of the preparation. You should feel duly honored."
+msgstr ""
+"О, не стоит волноваться… мой друг. Мы подготовимся ко встрече с ними, и ваша "
+"деревушка станет частью моего плана. Вы удостоитесь великой чести."
+
+#. [message]: speaker=unit
+#: ../scenarios/01_The_Therian_Village.cfg:238
+msgid "We are being raided by vampires! Call the militia, we’ll hold them off."
+msgstr "На нас напали вампиры! Созывайте ополчение, пока мы удерживаем их!"
+
+#. [message]: id=Kromire
+#: ../scenarios/01_The_Therian_Village.cfg:242
+msgid "Fool."
+msgstr "Глупец."
+
+#. [message]: id=Some_Woodsman
+#: ../scenarios/01_The_Therian_Village.cfg:264
+msgid "Who are you? Get out of my house!"
+msgstr "Кто ты? Прочь из моего дома!"
+
+#. [message]: id=Kromire
+#: ../scenarios/01_The_Therian_Village.cfg:268
+msgid "Kill him, quickly now! Before he can set of the alarm!"
+msgstr "Убей его! Быстрее, пока он не поднял шум!"
+
+#. [message]: id=Kromire
+#: ../scenarios/01_The_Therian_Village.cfg:279
+msgid "Quickly grab whatever villagers you can before they all flee."
+msgstr "Хватай крестьян, пока они все не разбежались."
+
+#. [message]: speaker=narrator
+#: ../scenarios/01_The_Therian_Village.cfg:283
+#: ../scenarios/01_The_Therian_Village.cfg:301
+msgid "A day later..."
+msgstr "На следующий день…"
+
+#. [message]: id=Igor
+#: ../scenarios/01_The_Therian_Village.cfg:293
+msgid "Thith ith all master. The retht... ’ave gotten away."
+msgstr "Это все, гозподин. Озтальные зкрылизь."
+
+#. [message]: id=Kromire
+#: ../scenarios/01_The_Therian_Village.cfg:297
+msgid ""
+"I’m only about half way through turning them. One more day, and then we will "
+"be ready to travel."
+msgstr ""
+"Я успел обратить только половину оставшихся. Завтра мы будем готовы "
+"выступить в поход."
+
+#. [message]: id=Kromire
+#: ../scenarios/01_The_Therian_Village.cfg:306
+msgid "Now that they are all mine it is time to— wait..."
+msgstr "Теперь, когда они мне полностью подчинены, настала пора… Погоди…"
+
+#. [message]: id=Kromire
+#: ../scenarios/01_The_Therian_Village.cfg:310
+msgid ""
+"I can smell celestial blood... it is coming closer. There is not much of it, "
+"though, we shall stand and fight. Our new clan members are still new to the "
+"blood, but we will lead them to victory over these arrogant warriors of "
+"light."
+msgstr ""
+"Чувствую, запахло кровью небожителей… Запах усиливается… Нас мало, но "
+"отступать мы не станем. Наши солдаты ещё не знают вкуса крови, но мы сумеем "
+"привести их к победе над этим зазнавшимся ‘пресветлым воинством’."
+
+#. [objective]: condition=win
+#: ../scenarios/01_The_Therian_Village.cfg:320
+msgid "Defeat the celestial army"
+msgstr "Одолейте армию небожителей"
+
+#. [message]: id=Kromire
+#: ../scenarios/01_The_Therian_Village.cfg:514
+msgid ""
+"Let us be off, that was only a scouting party. The main army is more than "
+"our forces can handle... yet."
+msgstr ""
+"Отойдём в горы, это был всего лишь разведывательный отряд. Главная армия "
+"врага не по зубам нашему войску… пока не по зубам."
+
+#. [scenario]: id=08_Return_to_Kromire_Castle
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:6
+msgid "Return to Kromire Castle"
+msgstr "Возвращение в замок Кромайр"
+
+#. [side]: type=EOM_Battle_Wizard, id=cleader
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:60
+msgid "Pythagorus"
+msgstr "Пизагорус"
+
+#. [side]: type=EOM_Claimant, id=cleader2
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:75
+msgid "Incarius"
+msgstr "Инкариус"
+
+#. [message]: id=Kromire
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:99
+msgid ""
+"Though I fled in shame, I return with strength to reclaim my own. It appears "
+"they have begun constructing a new castle of their own to replace the one "
+"where my father died."
+msgstr ""
+"Хоть бегство моё было позорным, обратно я возвращаюсь с силой, способной всё "
+"изменить. По некоторым косвенным признакам я заключил, что небожители начали "
+"возводить свою собственную крепость, чтобы заменить замок моего отца."
+
+#. [message]: id=cleader
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:103
+msgid ""
+"Incarius, there is an army advancing from the south. They are vampires in "
+"Kromire livery, and marching alongside Windsong warriors."
+msgstr ""
+"Инкариус, с юга к нам приближается армия. Это вампиры в цветах Кромайра, а "
+"рядом с ними воины аувиаата."
+
+#. [message]: id=cleader2
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:107
+msgid ""
+"Quick, send word to the prophet, and bring him back. Tell him the vampire "
+"scourge has returned. We will try to hold them off."
+msgstr ""
+"Быстрее, сообщи об этом пророку, и приведи с собою подмогу. Скажи ему, что "
+"вампиры вернулись. Мы попытаемся их удержать."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:111
+msgid "Surrender the prophecy of Merrian to us."
+msgstr "Отдайте нам пророчество Мерриана."
+
+#. [message]: id=Kromire
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:115
+msgid "And my castle."
+msgstr "И мой замок."
+
+#. [message]: id=cleader
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:119
+msgid ""
+"Your castle little blood lord? I believe I am standing in it, and that makes "
+"it mine, does it not? So no, I will not surrender my castle. Nor would I "
+"surrender anything in my possession to anyone who would ally with your kind. "
+"We are warriors of the light and do not fear the darkness you bring. As it "
+"is I do not even know where this ‘prophecy’ is, so I could not surrender it "
+"to you, now could I?"
+msgstr ""
+"Твой замок, маленький кровавый лордик? Полагаю, если я владею чем-нибудь, то "
+"это моё, не так ли? Знай, я не отдам тебе <i> мой </i> замок. И никогда и "
+"ничего не уступил бы в своих землях подобным тварям или вашим союзникам. Мы "
+"– воины света, и не боимся тьмы, что ступает за вами. Вдобавок, понятия не "
+"имею, где упрятано это ваше ‘пророчество’, а потому каким интересно образом "
+"смог бы его отдать?"
+
+#. [message]: id=Lisaundra
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:123
+msgid ""
+"I do not care if you fear me or not. I will crush your body so that it no "
+"longer blocks my path."
+msgstr ""
+"Мне всё равно, боишься ты меня или нет. Я уничтожу всё, что преграждает мне "
+"путь."
+
+#. [message]: id=Kromire
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:127
+msgid ""
+"You may stand in the castle now, but by the time the dark moon rises you "
+"will stand no longer."
+msgstr ""
+"Сейчас ты можешь бахвалится тем, что занял мой замок, но когда взойдёт "
+"тёмная луна, в живых из вас никого уже не останется."
+
+#. [objective]: condition=win
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:132
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:261
+msgid "Reclaim your lands"
+msgstr "Верните свои земли"
+
+#. [message]: id=cleader
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:152
+msgid ""
+"Uhw... You may have broken my body, but you shall not achieve your objective."
+msgstr "Оух… Ты изувечил моё тело, но цели своей не достигнешь."
+
+#. [message]: speaker=narrator
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:188
+msgid ""
+"As his strength flees his body, the wizard utters a final spell. Flames "
+"spring into life throughout the castle, burning even through stone, and "
+"within an hour, the castle is a smoldering ruin."
+msgstr ""
+"Иссушив себя, маг собрал всю силу для решающего заклинания. Огненная вспышка "
+"поглотила замок, камень плавился, рушились перекрытия. И вскоре от замка "
+"остались лишь тлеющие руины."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:193
+msgid ""
+"Anyone who would stoop to burning writings deserves to die. This abomination "
+"shall not go unpunished."
+msgstr ""
+"Тот, кто опускается до огненных рун, должен сгореть в пламени. Такая "
+"мерзость не должна оставаться безнаказанной."
+
+#. [message]: id=cleader2
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:203
+msgid ""
+"Freemen of this land, do you remember the yoke your shoulders bore under the "
+"reign of the vampires? If we fall to these invaders then it will once again "
+"fall on you. Fight for your freedom."
+msgstr ""
+"Достопочтенные граждане, вы помните хомут, который висел на вас, когда "
+"вампиры хозяйствовали на этих землях? Если мы падём от их рук, то тяжкое "
+"ярмо вновь обрушится на ваши плечи. Сражайтесь за свою свободу."
+
+#. [message]: id=Kromire
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:256
+msgid ""
+"Kill as few of those as is at all possible; their labor will help make us "
+"strong. I will not see my lands ruined like that of Valemoi. Once the "
+"celestials are defeated it will be a simple task to subject them to my will, "
+"but I will need them alive and uninjured."
+msgstr ""
+"Старайтесь не убивать крестьян понапрасну, они ещё нам понадобятся. Не хочу "
+"видеть свои владения такими же разорёнными, как земли Вэлемоя. Когда мы "
+"одолеем небожителей, мне не составит труда обратить моих подданных, но мне "
+"они нужны живыми и работоспособными."
+
+#. [objective]: condition=win
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:265
+msgid "Kill as few peasants as possible(Bonus)"
+msgstr "Убейте как можно меньше крестьян (бонус)"
+
+#. [message]: id=Kromire
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:281
+msgid "I express my sympathies over the loss of the object of your quest."
+msgstr "Сочувствую о потере цели ваших поисков."
+
+#. [message]: id=Lisaundra
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:285
+msgid ""
+"The scrolls the prophecies are written are not so easily destroyed. I’ll "
+"just have to sort through the wreckage until I find it."
+msgstr ""
+"Рукописи, на которых великие мудрецы записывают свои пророчества нельзя так "
+"просто уничтожить. Я разберу обломки, и найду то, что мне нужно."
+
+#. [message]: id=Kromire
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:289
+msgid ""
+"I wish you luck in your endeavor. If it is anywhere, it will be in the deep "
+"catacombs near the south wall of the castle. (This is going to take her "
+"forever. The catacombs, although not large, were very deep. With all the "
+"supports gone, each crypt will have to be dug out separately, and she does "
+"not know which is the right one)."
+msgstr ""
+"Желаю успехов. Если рукописи сохранились, то искать их следует в глубоких "
+"катакомбах под южной стеной замка. (Этого занятия ей хватит на всю жизнь. "
+"Катакомбы уходят глубоко вниз, все перекрытия рухнули, и каждый склеп "
+"придётся раскапывать и изучать по отдельности, ведь она не знает, в каком "
+"именно хранилось послание.)"
+
+#. [message]: id=Kromire
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:293
+msgid ""
+"(Though I would assume that nothing will stop her at this point.) Minion, "
+"assemble the remaining peasants. I will reassert my power over them, as well "
+"as provide fodder for the fledglings. Prepare a feast to celebrate, and "
+"bring some wine for the humans, I am going to need to replenish their "
+"numbers. None are to bite the humans until we are fully settled. Blood must "
+"be harvested from their cattle. Leave the Windsong to their task, they are "
+"not to be disturbed."
+msgstr ""
+"(Но думаю, никакие трудности не смогут её остановить.) Верные мне, соберите "
+"оставшихся крестьян, мне нужно утвердить над ними свою власть, а так же "
+"накормить своих юных детей. Готовимся к пиру, отпразднуем нашу победу! И "
+"достаньте людям вина из погребов, пусть знают, что их лорд вернулся домой. "
+"Пока мы полностью не вернём свои земли, запрещаю пить их кровь. Питаться "
+"будем с коз и с коров. И не беспокойте аувиаата, они заняты своим, важным, "
+"делом."
+
+#. [message]: id=Igor
+#: ../scenarios/08_Return_to_Kromire_Castle.cfg:298
+#: ../scenarios/03_Michbie.cfg:214
+msgid "Yeth master."
+msgstr "Да, гозподин."
+
+#. [side]: type=EOM_Noble, id=Michbie
+#. [scenario]: id=03_Michbie
+#: ../scenarios/03_Michbie.cfg:46 ../scenarios/03_Michbie.cfg:6
+msgid "Michbie"
+msgstr "Мичби"
+
+#. [message]: id=Michbie
+#: ../scenarios/03_Michbie.cfg:103
+msgid ""
+"So, little lordling, are you the new Count Kromire? I heard what happened, "
+"so do you come to my land as beggars or as potential slaves? I have enough "
+"pity for a fellow lord of the night, and I need a new valet."
+msgstr ""
+"Ааа, жалкий лордёныш, ты что ли и в самом деле новый граф Кромайр? Да, всем "
+"уже известно о случившемся. Вы пришли на мои земли в качестве побирушек или "
+"как новые рабы? При одном взгляде на тебя, несчастного и потерянного лорда "
+"ночи, я не могу сдержать слёз. Как насчёт должности при дворе? Мне как раз "
+"нужен новый камердинер."
+
+#. [message]: id=Kromire
+#: ../scenarios/03_Michbie.cfg:107
+msgid "Silence! You will not be so arrogant when your heart is pierced."
+msgstr ""
+"Интересно, будешь ли столь же высокомерен, когда твоё сердце пронзит сталь?"
+
+#. [message]: id=Michbie
+#: ../scenarios/03_Michbie.cfg:111
+msgid ""
+"My my, quite feisty for a bat without a roost. I guess you are a bit "
+"irritable given your situation, hmm? Your father was quite content to live "
+"fat and lazy off the labor and blood of his serfs, and never bothered to be "
+"wary of other dangers. Now you must pay the price for his lapse."
+msgstr ""
+"Тише, тише, моя маленькая летучая мышка, лишившаяся своей жёрдочки. Кто бы "
+"не расстроился, оказавшись в подобной ситуации, не так ли? Твой отец за "
+"мирные годы разжирел на крови своих рабов, он обленился и думать позабыл о "
+"том, что отточенный клинок всегда висит над каждым из нас. Теперь, кому, как "
+"не тебе, расплачиваться за его беспечность."
+
+#. [message]: id=Kromire
+#: ../scenarios/03_Michbie.cfg:115
+msgid ""
+"My father has paid for his faults, and lies dead, his lands lost. As the new "
+"Count Kromire, I mean to be all that he was not, and I will reclaim my "
+"lands. I am here to establish myself as the new power among our kind. I will "
+"be the conqueror, and you my serf."
+msgstr ""
+"Мой отец ответил за свои ошибки. Он мёртв, а его земли захвачены. Как новый "
+"граф Кромайр, я желаю вернуть их себе. И для начала заставлю других лордов "
+"меня уважать. Я разобью тебя в бою и позволю мне прислуживать."
+
+#. [message]: id=Michbie
+#: ../scenarios/03_Michbie.cfg:119
+msgid ""
+"Ah, the ignorance and arrogance of young pups knows no bounds. You’ve been "
+"given a taste of power, of responsibility, and you think. I see your forces, "
+"they are new to the blood, and few in number. You will die here."
+msgstr ""
+"Ах ты, зазнавшийся ублюдок! Дерзость слепых щенков не знает границ. Тебя "
+"наделили символом власти, а ты полагаешь, что это и есть власть? Я прекрасно "
+"вижу твои силы: это новички, которые ещё не знают вкуса крови. И их мало. Вы "
+"все останетесь гнить на этих полях."
+
+#. [message]: id=Kromire
+#: ../scenarios/03_Michbie.cfg:123
+msgid ""
+"Speak with you sword, Michbie, and our disagreement will be more soundly "
+"settled. I relish the chance to drink you dry."
+msgstr ""
+"Продолжим наш разговор мечами, Мичби, и тогда наши разногласия уладятся сами "
+"собой. Я уже предвкушаю, как досуха опустошу твоё тело!"
+
+#. [message]: id=Michbie
+#: ../scenarios/03_Michbie.cfg:127
+msgid ""
+"Fool! I have given in to my strange fit of mercy, and I heard you out in an "
+"effort to spare you. No more! I will grant you your eternal sleep!"
+msgstr ""
+"Дурак! В странном приступе милосердия я выслушивал твои гнусные речи, желая "
+"сохранить несколько жалких жизней! Теперь же вашей участью станет вечный "
+"покой!"
+
+#. [objective]: condition=win
+#: ../scenarios/03_Michbie.cfg:132
+msgid "Slay Count Michbie"
+msgstr "Убейте графа Мичби"
+
+#. [message]: id=Michbie
+#: ../scenarios/03_Michbie.cfg:148
+msgid ""
+"My people you must resist this invader! If he succeeds, he will not be "
+"content to lord over you, but he will turn you all!"
+msgstr ""
+"Верные мне вольные люди! Сражайтесь против этого наглеца! Если он добьётся "
+"успеха, то всех вас обратит в своих рабов!"
+
+#. [message]: type=Peasant
+#: ../scenarios/03_Michbie.cfg:194
+msgid "Die you vampire fiend!"
+msgstr "Сдохни, поганый кровосос!"
+
+#. [message]: id=Kromire
+#: ../scenarios/03_Michbie.cfg:198
+msgid ""
+"Delusional cattle. They willingly use one darkness to protect them from "
+"another. Do not kill all of them, beat them down and break them, but leave "
+"them alive for later."
+msgstr ""
+"Заблудший скот. Их пугают одним мороком, чтобы защитить от другого. Не "
+"убивайте их: валите с ног, ломайте кости, но оставляйте живыми."
+
+#. [message]: id=Kromire
+#: ../scenarios/03_Michbie.cfg:209
+msgid ""
+"It is done! Quickly, set up a perimeter, we must not let any of the serfs "
+"escape. I will need to turn all of them, and that will take time. Set up a "
+"guard, I will need protection while I work."
+msgstr ""
+"Готово! Скорее, окружите их, ни один из них не должен сбежать. Мне нужно "
+"обратить их всех, а это займёт много времени. Выставьте охрану, во время "
+"работы мне понадобится защита."
+
+#. [scenario]: id=04_Counter
+#: ../scenarios/04_Counterattack.cfg:6
+msgid "Counter"
+msgstr "Расплата"
+
+#. [side]: type=EOM_Therian_Defender, id=Tleader
+#: ../scenarios/04_Counterattack.cfg:79
+msgid "Therian captain"
+msgstr "Капитан Тириийцев"
+
+#. [side]: type=EOM_Pack_Leader, id=Wleader
+#: ../scenarios/04_Counterattack.cfg:92
+msgid "Corian"
+msgstr "Кориан"
+
+#. [message]: id=Tleader
+#: ../scenarios/04_Counterattack.cfg:112
+msgid ""
+"Did you think you would get away with trashing our village so easily, "
+"bloodsucker?"
+msgstr ""
+"Ты думал, тебе так просто сойдёт с рук разгром нашего селения, кровопийца?"
+
+#. [message]: id=Wleader
+#: ../scenarios/04_Counterattack.cfg:116
+msgid "Those who would hurt our brothers, hurts us. We avenge our own."
+msgstr "Те, кто причинил боль нашим братьям, тем самым причинили боль нам."
+
+#. [message]: id=Kromire
+#: ../scenarios/04_Counterattack.cfg:120
+msgid ""
+"You are fools to come back. My strength is now twice what it was, and I have "
+"a whole army of followers to do my bidding. Do not expect mercy. It is time "
+"for the worms to feast on your flesh!"
+msgstr ""
+"Вы глупы, раз пришли ко мне. Мои силы удвоились, за мной стоит армия верных "
+"воинов. Не надейтесь на милосердие. Пусть черви отведают вашу плоть!"
+
+#. [message]: id=Kromire
+#: ../scenarios/04_Counterattack.cfg:138
+msgid ""
+"My children... I think it is time to pay a visit to count Valemoi. His death "
+"will give me the power I need to challenge the Celestials!"
+msgstr ""
+"Дети мои… Настало время навестить графа Вэлемоя. Его гибель придаст мне сил, "
+"чтобы бросить вызов небожителям!"
+
+#. [side]: type=EOM_Pack_Leader, id=Wleader
+#: ../scenarios/05_Valemoi.cfg:48
+msgid "Verwl"
+msgstr "Вервл"
+
+#. [side]: type=EOM_Pack_Leader, id=Wleader2
+#: ../scenarios/05_Valemoi.cfg:65
+msgid "Crwa"
+msgstr "Крва"
+
+#. [side]: type=EOM_Djinn, id=Eleader
+#: ../scenarios/05_Valemoi.cfg:81
+msgid "Visine"
+msgstr "Визин"
+
+#. [side]: type=EOM_Rock_Golem, id=Eleader2
+#: ../scenarios/05_Valemoi.cfg:99
+msgid "Obsidian"
+msgstr "Обсидиан"
+
+#. [side]: type=EOM_Sangel, id=Vleader
+#: ../scenarios/05_Valemoi.cfg:117
+msgid "Count Valemoi"
+msgstr "Граф Вэлемой"
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:140
+msgid "I can smell bad blood near..."
+msgstr "Чувствую, запахло врагами…"
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:144
+msgid "You do not appear to be in a good position to insult, Lord Valemoi."
+msgstr ""
+"Кажется, у тебя не самое лучшее положение, чтобы начинать с оскорблений, "
+"лорд Вэлемой."
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:148
+msgid ""
+"Kromire, this had better not be your doing. Your recent conquest has swelled "
+"your head, but your youthful fancies pale before the power I have "
+"accumulated over the years."
+msgstr ""
+"Кромайр, лучше отступи, пока не поздно. Недавние победы вскружили тебе "
+"голову, но твои юношеские мечты померкнут перед накопленным мною могуществом."
+
+#. [message]: id=Wleader
+#: ../scenarios/05_Valemoi.cfg:152
+msgid "We would never ally with your kind! The idea is despicable."
+msgstr ""
+"Мы никогда не объединимся с вашим видом! Сама мысль об этот отвратительна."
+
+#. [message]: id=Eleader
+#: ../scenarios/05_Valemoi.cfg:156
+msgid "...d...i...e..."
+msgstr "…с…м…е…р…ть…"
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:160
+msgid ""
+"This is odd. Elementals do not form armies, nor do they hunt out vampires."
+msgstr ""
+"Всё это как-то странно. Обычноэлементали не объединяются в армии, да и не "
+"слышал я, чтобы они на вампиров нападали."
+
+#. [message]: id=Wleader2
+#: ../scenarios/05_Valemoi.cfg:164
+msgid ""
+"In the past no, but elements are the unspoken guardians of the world. They "
+"are more attuned than most, and they felt the threat posed by those who "
+"would leech the life from all living creatures. They banded together to "
+"eliminate that threat and when we saw them on the march, we could not deny "
+"their noble cause. We came to support them, and cast down you lords of "
+"darkness!"
+msgstr ""
+"Всё условности остались в прошлом. Элементали – неназванные хранители мира. "
+"Их чувства обострены, они ощущают мельчайшую угрозу от тех, кто готовится "
+"стать пиявкой на теле жизни. Они объединились, чтобы спаси всех нас, и когда "
+"мы увидели их на марше, то не смогли остаться в стороне от их благородного "
+"начинания. Мы прибыли поддержать светлые силы элементалей, и уничтожить вас, "
+"повелители тьмы!"
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:168
+msgid ""
+"Ha! You know nothing of our kind. Regardless of what he does to his serfs, "
+"Valemoi is not a threat to the world. We live alone in our castles, lording "
+"over our peasants and biding our time. We have no dreams of world conquest."
+msgstr ""
+"Ха! Вы ничего о нас не знаете. Неважно, кого он превращает в своих рабов, но "
+"для мира Вэлемой угрозу не представляет. Мы живём в своих одиноких замках, и "
+"нам хватает своей прислуги. Мы не мечтаем о всемирном господстве."
+
+#. [message]: id=Wleader2
+#: ../scenarios/05_Valemoi.cfg:172
+msgid ""
+"You do not know what is coming. Your own self interest will force you to "
+"aspire greater soon."
+msgstr ""
+"Ты говоришь о прошлом, не ведая грядущего. Твои собственные стремления "
+"вынудят тебя жаждать намного большего."
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:176
+msgid ""
+"It will, will it? Valemoi, I do not have to fight these creatures, I could "
+"merely head back the way I came. You cannot run, for doing so would lose you "
+"your lands and your serfs, the loss of which would mean ruin to you."
+msgstr ""
+"Значит, вот оно как будет? Вэлемой, я не обязан сражаться с этими "
+"существами, и могу уйти тем же путём, по которому пришел сюда. Сбежать ты не "
+"сможешь, ведь бегство означает потерю земель, рабов и статуса. Полный крах."
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:180
+msgid "Get to the point."
+msgstr "Ближе к делу."
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:184
+msgid ""
+"In exchange for whatever help you can give me defeating the celestials, I "
+"will save you from your sure defeat."
+msgstr ""
+"В обмен на помощь в войне против небожителей я избавлю тебя от неизбежного "
+"поражения."
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:188
+msgid ""
+"Arrogant pup! I will show you your place some day, mark my words. But I "
+"cannot argue your truths. I do see my demise without your help. So be it. If "
+"we both survive this day, I will come to your side when you march on your "
+"keep."
+msgstr ""
+"Высокомерный щенок! Однажды я покажу тебе твоё место. Попомни мои слова. Но "
+"спорить с тобой не стану. Насколько плохо моё положение, вижу и без твоих "
+"подсказок… Да будет так. Если мы переживём этот день, то, когда надумаешь "
+"возвратить себе родовой замок, я приду под твои знамёна."
+
+#. [message]: id=Igor
+#: ../scenarios/05_Valemoi.cfg:192
+msgid "I would not thrtht him master. Heth will seethk to bethray us."
+msgstr "Не зтал бы доверять ему, гозподин. Он обязательно предазт наз."
+
+#. [objective]: condition=lose
+#: ../scenarios/05_Valemoi.cfg:648
+msgid "Death of Valemoi"
+msgstr "Смерть Вэлемоя"
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:673
+msgid ""
+"His magic would have been an asset to our victory. No bother. We will win "
+"without him."
+msgstr ""
+"Его магия станет хорошим вкладом в нашу победу. Но не стоит беспокоиться, мы "
+"справимся и без него."
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:696
+msgid ""
+"It seems as though the tide has turned. Kromire, prepare to suffer for your "
+"arrogance!"
+msgstr ""
+"Кажется, маятник качнулся в другую сторону. Кромайр, готовься ответить за "
+"своё высокомерие!"
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:786
+msgid ""
+"It seems he failed to notice the men I snuck into his castle. Excellent."
+msgstr ""
+"Ха, он не успел заметить воинов, которых я украдкой провёл в его замок. "
+"Отлично."
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:799
+msgid "No!"
+msgstr "Нет!"
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:803
+msgid ""
+"His help may be useful in the future, but can I really trust someone who "
+"will so easily betray me. Is his proposed aid in my conquest worth letting "
+"him live?"
+msgstr ""
+"Его помощь могла бы нам пригодиться, но доверять тому, кто с такой лёгкостью "
+"предаёт... Что же решить?"
+
+#. [option]
+#: ../scenarios/05_Valemoi.cfg:805
+msgid "No mercy"
+msgstr "Никакого милосердия."
+
+#. [option]
+#: ../scenarios/05_Valemoi.cfg:814
+msgid "Let him live"
+msgstr "Пусть живёт."
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:825
+msgid "You should not have betrayed me."
+msgstr "Ты не должен был предавать меня."
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:831
+msgid ""
+"I am not going to kill you just yet. There is still a battle to be won. "
+"Surrender your men to me, and let us drive out these intruders."
+msgstr ""
+"Я не убью тебя прямо сейчас. Нас ждёт ещё одно сражение, которое нам "
+"предстоит выиграть. Передай своих воинов под моё начало, и избавимся от этих "
+"захватчиков."
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:835
+msgid "We surrender, and will only bear swords against your foes."
+msgstr "Мы сдаёмся. Позволь нам обратить мечи на твоих врагов."
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:866
+msgid ""
+"Pity that Valemoi could not have been more useful. His line is dead, his "
+"house ended. Harvest his serfs, I will turn some of them for the army, and "
+"the rest shall be for feeding. Gather your strength my children, we are "
+"heading back to Kromire Castle soon."
+msgstr ""
+"Возможно, снисхождение к Вэлемою было напрасным: его войско разгромлено, его "
+"дом обречён. Сгоните оставшихся рабов. Некоторые из них пополнят мою армию, "
+"а остальные послужат пропитанием. Соберёмся с силами, дети мои, скоро мы "
+"вернёмся в замок Кромайр."
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:872
+msgid ""
+"Valemoi, though you betrayed me, I have seen fit to give you a chance to "
+"live. Serve me or die."
+msgstr ""
+"Вэлемой, хоть ты и предал меня, считаю разумным дать тебе ещё один шанс. "
+"Служи мне или умри."
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:876
+msgid ""
+"My forces are decimated, my lands torn apart. If I follow you, there will be "
+"nothing left to come back to, as my enemies will return again. Surely I can "
+"offer you something, some favor, so that you may leave me be."
+msgstr ""
+"Моё войско разбито. Мои земли разорены. Если я отправлюсь за тобой, то мне "
+"уже некуда будет вернуться – враги не станут ждать и довершат начатое. Но я "
+"могу предложить нечто, что поможет тебе добиться цели даже и без моего "
+"участия."
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:880
+msgid ""
+"I do not know Valemoi, why don’t you tell me? After all, you are the one "
+"with an interest in the result. I can as easily kill you now as take you "
+"with me."
+msgstr ""
+"Не знаю, Вэлемой, почему я всё ещё упрашиваю тебя? В конце концов, "
+"достигнуть результата в твоих же интересах. Сейчас я могу прихлопнуть тебя "
+"одним пальцем, или за шкирку с собой потащить."
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:884
+msgid ""
+"... I could teach your blood mages how to use their powers to animate stone, "
+"I could also construct abominations that would serve well in your army."
+msgstr ""
+"…Я могу научить твоих магов крови оживлять камни, а также посвятить их в "
+"искусство отвращения. Эти знания пригодятся твоей армии."
+
+#. [message]: id=Kromire
+#: ../scenarios/05_Valemoi.cfg:888
+msgid ""
+"Fine. In addition you must provide my men with nourishment, and lodging "
+"until we are ready to leave. I will spare your life for now, Valemoi, but do "
+"not forget that you live at my mercy."
+msgstr ""
+"Прекрасно. И, сверх того, ты должен обеспечить мои войска пропитанием и "
+"разместить их на своих землях до тех пор, пока мы останемся здесь. Я сохраню "
+"тебе жизнь, Вэлемой, но не забывай, благодаря чьей милости ты всё ещё "
+"ступаешь по этой земле."
+
+#. [message]: id=Vleader
+#: ../scenarios/05_Valemoi.cfg:892
+msgid "So be it."
+msgstr "Да будет так."
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:10
+msgid "Count Kromire"
+msgstr "Граф Кромайр"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:11
+msgid "CK"
+msgstr "ГК"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:19 ../_main.cfg:23
+msgid "Lord"
+msgstr "Лорд"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:19
+msgid "(Easy)"
+msgstr "(Легко)"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:20 ../_main.cfg:24
+msgid "Sire"
+msgstr "Рыцарь"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:20
+msgid "(Normal)"
+msgstr "(Нормально)"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:21 ../_main.cfg:25
+msgid "Conquerer"
+msgstr "Завоеватель"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:21
+msgid "(Hard)"
+msgstr "(Трудно)"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:23
+msgid "Easy"
+msgstr "Легко"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:24
+msgid "Normal"
+msgstr "Нормально"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:25
+msgid "Hard"
+msgstr "Трудно"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:27
+msgid ""
+"You are the blood son of a vampire lord; however, when the might of the "
+"celestial crusades comes knocking, and your father is slain, you flee your "
+"lands. However, you intend to return, to restore the lands of Kromire to the "
+"Kromires, to avenge your father, and most importantly, to make sure that no "
+"celestial ever dares come into your mountains again."
+msgstr ""
+"Вы – кровный сын повелителя вампиров. Но когда на ваши земли священным "
+"походом наступают легионы небожителей, а ваш отец убит, вам приходится "
+"спасаться бегством. Оставить всё как есть? Никогда! В ваших планах вернуться "
+"и восстановить величие земель Кромайра, отомстить за гибель отца, и, самое "
+"главное, удостовериться, что враг никогда больше не посмеет переступить "
+"ваших границ."
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:32
+msgid "You need to install Era of Myths before playing this campaign!"
+msgstr ""
+"Вам необходимо скачать Era of Myths перед тем как играть в ету кампанию!"
+
+#. [campaign]: id=Count_Kromire
+#: ../_main.cfg:37
+msgid "You need Era of Myths in order to play this campaign."
+msgstr "Вам необходимо иметь аддон Era of Myths что бы играть в ету кампанию."
+
+#~ msgid "Now that they’re all mine it’s time to— wait..."
+#~ msgstr "Теперь, когда они мне полностью подчинены, настала пора… Погоди…"
+
+#~ msgid "Defeat the celestial forces"
+#~ msgstr "Одолейте силы небожителей"
+
+#~ msgid "Version:"
+#~ msgstr "Версия:"
+
+#~ msgid "(requires the Era of Myths Epsilon 6 or later)"
+#~ msgstr "(требуется эра Era of Myths не меньше 6-й версии)"

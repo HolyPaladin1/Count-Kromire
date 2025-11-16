@@ -1,0 +1,42 @@
+
+ADDING TRANSLATIONS FOR A NEW LANGUAGE
+
+1) Copy the .pot file to the right location (see existing translation) and change the extension to .po
+   (.pot stands for .po-template)
+
+2) Edit it with an editor for .po files (e.g. "poedit")
+   When saving, it will generate a .mo file. This is the machinereadable file, which the game will use.
+
+
+MAINTAINING TRANSLATIONS (after string changes)
+
+When strings in the addon change, then the translations must be touched, too.
+
+1) You must generate a new .pot file
+The following command would do that on unix systems. On Windows, it may be enought to replace / with \.
+The commands assume that you execute them in the base directory of this addon.
+
+wmlxgettext is a perl script which lies in you wesnoth_install_directory/utils/wmlxgettext
+Either you add that directory to you PATH variable (google for that ;) ), or you type the whole path for it in the next command.
+wmlxgettext is using a programm called gettext - you need to have it available, too. Maybe you already have.
+
+wmlxgettext _main.cfg scenarios/*.cfg utils/*.cfg --directory=. --domain=wesnoth-Kromire > translations/wesnoth-Kromire.pot
+
+2) So you have now a new translation template file, but the translations are still in the old files?
+   Let's merge them! (maybe make a backup first)
+
+msgmerge -U translations/de/LC_MESSAGES/wesnoth-Kromire.po translations/wesnoth-EoM_Kromire.pot
+   (-U = update, the second file remains untouched, the first file get's updated)
+
+3) Now, proceed like when translating. Have a look at the .po file.
+   If a string did change, it's usually detected, and the translation of the former string is suggested.
+   You have to check the marked translations and to unmark them.
+   As usual, when saving with you po-editor, the machinereadable .mo file is created.
+
+   If the string changes in the addon or was just a spelling mistake in the english string,
+   then you can repair the translations of languages which you don't even know.
+   
+
+MORE INFORMATIONS
+In the Era of Myths is as well a file telling about translations - there is a more in-depth explanation.
+
